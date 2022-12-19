@@ -2,7 +2,7 @@
 
 ```json
 {
-     "Name": "]Luiz Savio",
+     "Name": "Luiz Savio",
      "Age": 15,
      "Description": "Olá, eu me chamo Luiz Savio, mas sou conhecido como Struner",
      "Language": "Portugues | English",
